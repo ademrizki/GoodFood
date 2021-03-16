@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">Good Food</string>
+    <string name="title_activity_main">GOOD FOOD</string>
+    <string name="title_activity_login1">Sign in</string>
+    <string name="komp1">"  - 500 gr daging sapi segar tanpa lemak.\n
+  - 3-5 siung bawang putih, haluskan.\n
+  - 3 siung bawang putih, yang telah diiris dan
+    digoreng.\n
+  - 150 gr es batu, yang telah dihancur.\n
+  - 50 ml putih telur.\n
+  - 2 sdt garam atau secukupnya.\n
+  - 100 gr tepung sagu kering.\n
+  - 1/2 sdt soda kue\n"</string>
+    <string name="cara1">" 1. Pertama potong-potong dulu dagingnya agar
+      mudah hancur saat diblender. Kemudian barulah
+      dimasukkan dalam blender daging yang telah
+      disiapkan. giling hinggga betul-betul halus.\n
+  2. Berikutnya barulah masukkan bahan seperti
+       bawang putih yang telah dihaluskan, putih telur,
+       bawang goreng, garam dan sisa es batu.
+       Lalu gilinglagi hingga halus betul.\n
+  3. Selanjutnya tambahkan tepung sagu kering dan
+       juga soda kue / baking powder. Kemudian
+       lanjutkan menggiling adonan bakso hingga
+       didapatkan hasil yang berbentuk pasta
+       dan lembut.\n
+  4. Sekarang saatnya memasak. Caranya masak
+       dulu air untuk merebus bakso yang telah
+       dibentuk bulat, usahakan hingga mendidih
+       dengan air yang agak banyak. Kalau dalam
+       resep aslinya, setelah mendidih apinya
+       dimatikan atau dinyalakan dengan api kecil
+       saja. Tapi pengalaman saya malah kalau
+       adonannya kurang sempurna bakalan menyatu,
+       jadi saya nyalakan besar saja apinya.
+       Hanya saja kalau apinya dikecilkan bisa
+       semakin baik hasilnya.\n
+  5. Cara membentuk bakso jadi bulat :
+       Caranya, celup dulu sendoknya di air dingin
+       lalu ambil adonan agak banyak dan taruh
+       di telapak tangan. Lalu, genggam adonan
+       hingga keluar ke atas (dilubang yang
+       terbentuk antara jadi telunjuk dan ibu jari).
+       Kemudian tinggal ambil adonan bakso yang
+       keluar tersebut menggunakan sendok yang juga
+       telah dicelupkan di air es. Tinggal masukkan
+       dalam air panas tadi. Lakukan ini hingga
+       adonan terbentuk bulat semua, lalu biarkan
+       dulu hingga semua bakso mengembang dan
+       barulah dimasak dengan api besar hingga
+       semua bakso matang sempurna sampai bagian
+       dalamnya.\n
+  6. Terakhir, siapkan baskom dan isi dengan
+       air dingin. Masukkan bakso yang telah
+       matang ke dalam baskom tersebut dan
+       tunggu hingga dingin lalu tiriskan.
+       Bakso pun siap dihidangkan.\n"</string>
+    <string name="komp2">"   - 500 gram jengkol, pilih yang tua\n
+   - 1000 ml (1 liter) air\n
+   - 7 sendok makan Kecap Manis\n
+   - 1 sendok makan gula merah sisir\n
+   - 1/2 butir pala, diparut\n
+   - 1 sendok teh lada\n
+   - 3 sendok makan minyak untuk menumis\n
+   - 1 batang serai, dimemarkan\n
+   - 2 lembar daun salam\n
+       Bumbu halus\n
+   - 6 siung bawang putih\n
+   - 1 sendok teh garam\n
+   - 2 cm kunyit\n
+   - 1/2 sendok teh ketumbar\n
+   - 3 butir kemiri\n
+   - 2 buah cabe merah biasa\n"</string>
+    <string name="cara2">"  1. Rebus jengkol sampai matang,
+      setelah itu buang kulitnya dan dipipihkan.\n
+  2. Tumis bumbu yang dihaluskan, daun salam dan
+      serai sampai harum dan matang sempurna.\n
+  3. Masukkan jengkol, air, gula, lada, pala.
+      Masak dengan api kecil hingga mengental.\n
+  4. Tambahkan kecap manis, masak sebentar lalu
+      diangkat. Masakan siap dihidangkan.\n"</string>
+    <string name="komp3">"   - 250 gram Daging Sapi\n
+   - 10 Lembar Tortilla\n
+   - 200 gram Lettuce Iceberg\n
+   - 3 buah Timun\n
+   - 3 buah Tomat\n
+   - 200 gram Saus Tomat\n
+   - 200 gram Saus Sambal\n
+   - 10 Lembar Keju\n
+   - 1 sdt Garam\n
+   - 1/2 sdt Pala\n
+   - 1 sdt Merica Bubuk\n
+   - 50 gram Mentega\n"</string>
+    <string name="cara3">"  1. Potong daging tipis-tipis
+      lalu memarkan dengan kayu\n
+  2. Buat bumbu, campurkan bawang putih, garam,
+      merica dan pala beri sedikit air.
+      Lumurkan pada daging\n
+  3. Olesi pemanggang dengan mentega,
+      panggang mentega\n
+  4. Siapkan tortilla, susun lettuce iceberg,
+      daging, timun,tomat, keju, saus tomat,
+      saus sambal atau sesuai selera\n
+  5. Olesi pemanggang dengan minyak,
+      masak kebab diatas api kecil. Angkat\n"
+    </string>
+    <string name="komp4">"   - 1 ekor ayam, dipotong 20 bagian\n
+   - 1 sendok teh air jeruk nipis\n
+   - minyak untuk menggoreng\n
+   - 2 lembar daun salam\n
+   - 2 lembar daun jeruk, dibuang tulangnya\n
+   - 2 batang serai, diambil putihnya, dimemarkan\n
+   - 2 cm lengkuas, dimemarkan\n
+   - 1/2 sendok teh garam\n
+   - 1/4 sendok teh merica bubuk\n
+   - 1 sendok teh gula merah\n
+   - 250 ml air kaldu ayam\n
+   - 3 sendok makan minyak, untuk menumis\n"</string>
+    <string name="komp42">"   - 4 buah cabai merah besar\n
+   - 7 buah cabai merah keriting\n
+   - 10 buah cabai rawit merah\n
+   - 1 sendok teh ebi, diseduh air panas, disangrai\n
+   - 7 butir bawang merah\n
+   - 3 siung bawang putih\n"</string>
+    <string name="cara4">"   1. Lumuri ayam dengan 1 sendok teh garam,
+       1/4 sendok teh merica, dan air jeruk nipis
+       selama 10 menit. Goreng dengan minyak yang
+       sudah dipanaskan hingga kecokelatan\n
+  2. Panaskan minyak. Tumis bumbu tumbuk kasar,
+      daun salam, daun jeruk, serai, dan lengkuas
+      sampai harum. Masukkan ayam. Aduk rata.\n
+  3. Masukkan sisa garam, sisa merica bubuk,
+      dan gula merah. Aduk rata.\n
+  4. Tuang air kaldu. Masak sampai matang dan
+       kuah tinggal sedikit.\n"</string>
+    <string name="komp5">"   - 1 ekor bebek, potong sesuai selera\n
+   - 2 gelas air putih\n
+   - 1 batang serai, memarkan\n
+   - 1 sdt air jeruk nipis\n
+   - 2 lembar daun jeruk\n
+   - 1 lembar daun salam\n
+   - Minyak goreng secukupnya\n"
+   </string>
+    <string name="komp52">"   - 2 cm jahe\n
+   - 1 cm lengkuas\n
+   - 1 sdt ketumbar\n
+   - 2 butir kemiri, sangrai\n
+   - 3 cm kunyit yang dibakar\n
+   - 3 siung bawang putih\n
+   - 4 butir bawang merah\n
+   - 1 ½ sdt garam\n
+   - 1 sdt gula\n"</string>
+    <string name="komp53">"   - 2 buah tomat hijau, haluskan\n
+   - ½ sdt merica bubuk\n
+   - ¼ sdt kaldu ayam bubuk\n
+   - ½ sdt garam\n
+   - ½ sdt gula\n
+   - 8 buah cabe hijau keriting, haluskan\n
+   - 4 buah cabe hijau besar, haluskan\n
+   - 3 butir bawang merah, haluskan\n
+   - 3 siung bawang putih, haluskan\n"</string>
+    <string name="cara5">"   1. Langkah pertama, lumuri bebek dengan
+       jeruk nipis. Lalu diamkan selama 15 menit.\n
+  2. Setelah itu, rebus bebek bersama daun jeruk,
+      daun salam, serai dan bumbu yang sudah
+      dihaluskan hingga meresap. angkat\n
+  3. Selanjutnya, panaskan minyak goreng.
+      Lalu goreng bebek yang sudah direbus tadi
+      hingga berwarna kuning keemasa. Angkat
+      dan tiriskan.\n
+  4. Kemudian panaskan minyak goreng lagi,
+      lalu tumis semua bahan cabai ijo hingga
+      tercium aroma harum lalu masukkan bebek.
+      Aduk hingga tercampur rata lalu angkat\n
+  5. Bebek Sambal Ijo siap dihidangkan.\n"</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
